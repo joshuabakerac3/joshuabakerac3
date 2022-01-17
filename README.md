@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuabakerac3
-- 👀 I’m currently a DevOps Engineer for AC3
+- 👀 I’m a DevOps Engineer for AC3
 - 💞️ I’m looking to collaborate on managed services products and cloud solutions
 - 📫 How to reach me joshua.baker@ac3.com.au
 
